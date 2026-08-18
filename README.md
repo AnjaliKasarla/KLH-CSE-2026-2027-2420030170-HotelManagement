@@ -376,7 +376,7 @@ The repository will remain accessible until the final project evaluation is comp
 
 ### Course Coordinator
 
-To be added.
+Lavanya Gottemukkala
 
 The repository will not be renamed or transferred after the repository URL has been officially recorded unless written consent is obtained from the Course Coordinator.
 
