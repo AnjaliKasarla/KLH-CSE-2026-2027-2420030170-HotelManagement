@@ -1,4 +1,4 @@
-# Agile-Driven DevOps Hotel Management and Reservation Platform
+# AI-Driven DevOps Hotel Management and Reservation Platform
 
 ## 📌 Project Information
 
