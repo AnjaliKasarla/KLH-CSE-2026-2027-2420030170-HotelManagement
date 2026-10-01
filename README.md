@@ -2,7 +2,7 @@
 
 ## 📌 Project Information
 
-**Project Title:** Agile-Driven DevOps Hotel Management and Reservation Platform
+**Project Title:** AI-Driven DevOps Hotel Management and Reservation Platform
 
 **Academic Year:** 2026–2027
 
@@ -27,7 +27,7 @@
 
 ## 📖 1. Project Overview
 
-The **Agile-Driven DevOps Hotel Management and Reservation Platform** is a web-based application designed to simplify and automate essential hotel operations such as room management, guest management, reservations, check-in, and check-out.
+The **AI-Driven DevOps Hotel Management and Reservation Platform** is a web-based application designed to simplify and automate essential hotel operations such as room management, guest management, reservations, check-in, and check-out.
 
 The system provides a centralized platform for managing hotel activities efficiently, reducing manual effort, improving accuracy, and providing a better experience for hotel staff and guests.
 
@@ -39,7 +39,7 @@ DevOps practices are incorporated throughout the project using Git-based version
 
 ## 📝 2. Abstract
 
-The **Agile-Driven DevOps Hotel Management and Reservation Platform** is a web-based application designed to simplify and automate essential hotel operations such as room management, guest management, reservations, check-in, and check-out. The platform provides a centralized system for managing hotel activities efficiently while reducing manual effort and improving accuracy.
+The **AI-Driven DevOps Hotel Management and Reservation Platform** is a web-based application designed to simplify and automate essential hotel operations such as room management, guest management, reservations, check-in, and check-out. The platform provides a centralized system for managing hotel activities efficiently while reducing manual effort and improving accuracy.
 
 The project follows Agile software development practices, including user stories, product backlog management, sprint planning, task estimation, iterative development, continuous integration, testing, and regular stakeholder feedback.
 
@@ -394,7 +394,7 @@ The repository is actively maintained throughout the project lifecycle. Source c
 
 | Details       | Information                                                   |
 | ------------- | ------------------------------------------------------------- |
-| Project Title | Agile-Driven DevOps Hotel Management and Reservation Platform |
+| Project Title | AI-Driven DevOps Hotel Management and Reservation Platform |
 | Academic Year | 2026–2027                                                     |
 | Branch        | CSE                                                           |
 | Project Guide | RAJKUMAR PATIL                                                |
